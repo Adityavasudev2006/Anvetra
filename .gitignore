@@ -1,0 +1,30 @@
+# Ignore readme
+readme.txt
+
+# Secrets & keys
+*.pem
+*.key
+*access*
+*.env
+
+# Data & models
+*.csv
+*.pkl
+
+# Archives
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+data/ai_vs_real_images/AI/
+data/ai_vs_real_images/real/
+
+# Ignore all trained models
+models/
+*.keras
+*.h5
+*.pth
+*.pt
+*.onnx

@@ -1,0 +1,13 @@
+pip install torch torchvision torchaudio timm transformers pytorchvideo opencv-python librosa scikit-learn pandas numpy matplotlib ffmpeg-python albumentations
+# optional: accelerate, huggingface_hub, pytorch-lightning
+
+pip install opencv-python matplotlib
+
+pip install tensorflow opencv-python matplotlib
+
+pip install timm
+
+pip install torch torchvision torchaudio
+
+pip install huggingface_hub[hf_xet]
+
